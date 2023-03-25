@@ -15,7 +15,7 @@
 * CIVAI bot only trades Altcoins that meets “possible-profit” criteria
 * CIVAI bot doesn't guarantee & cannot ensure profit within a set time period due to the volatility of the crypto market
 * Altcoins price action are majorly affected by BTC price movement, If BTC is down, Altcoins will go down. This delays time to take profit on trades
-* CIVAI bot by default follows the “you never lose until you sell” trading ideolog
+* CIVAI bot by default follows the “you never lose until you sell” trading ideology unless you configure your bot settings to do otherwise
 
 
 ###  How much profit is guaranteed?
